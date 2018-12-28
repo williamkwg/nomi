@@ -1,6 +1,6 @@
 # nomi
 
-the nomi framework
+the nomi framework based on koa2
 
 ## Installation
 
