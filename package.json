@@ -1,0 +1,18 @@
+{
+  "name": "nomi",
+  "version": "0.0.1",
+  "description": "the nomi framework based on koa2",
+  "author": "weiguo.kong",
+  "scripts": {
+    "test": ""
+  },
+  "main": "./lib/index.js",
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "nomi-core": "^1.0.15",
+    "nomi-env": "^0.0.2"
+  },
+  "devDependencies": {
+  }
+}
